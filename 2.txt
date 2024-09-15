@@ -1,4 +1,9 @@
 lalli
+<<<<<<< HEAD
 hello
 bybye
 
+=======
+good afternoon
+byebye
+>>>>>>> origin
